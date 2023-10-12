@@ -6,8 +6,8 @@ Esse repositório também faz parte de um treinamento e desafio de projeto propo
 
 | Nome do repositório | Descrição |
 ----------------------|-----------|
-Análise e Desenvolviment de Sistemas - Uninter | Repositório com os trabalhos desenvolvidos na **faculdade** |
-Tecnologia em Jogos Digitais - Uniara | Repositório com os trabalhos desenvolvidos na **faculdade** |
+[Análise e Desenvolviment de Sistemas - Uninter](https://github.com/caioverri/analise-e-desenvolvimento-de-sistemas) | Repositório com os trabalhos desenvolvidos na **faculdade** |
+[Tecnologia em Jogos Digitais - Uniara](https://github.com/caioverri/tecnologia-em-jogos-digitais) | Repositório com os trabalhos desenvolvidos na **faculdade** |
 Bootcamps DIO | Repositório com os bootcamps da **DIO** que participei |
 
 - Utilizei o site [Markdown Guide](https://www.markdownguide.org/basic-syntax/) para entender a sintaxe básica markdown
