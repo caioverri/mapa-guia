@@ -10,5 +10,5 @@ Análise e Desenvolviment de Sistemas | Repositório com os trabalhos desenvolvi
 Tecnologia em Jogos Digitais | Repositório com os trabalhos desenvolvidos na **faculdade** |
 Bootcamps DIO | Repositório com os bootcamps da **DIO** que participei |
 
-- Utilizei o site [Markdown Guide](https://www.markdownguide.org/basic-syntax/) para entender a sistaxe básica markdown
-- Esse repositório é atualizado apenas em caso de novos repositórios
+- Utilizei o site [Markdown Guide](https://www.markdownguide.org/basic-syntax/) para entender a sintaxe básica markdown
+- Esse repositório é atualizado apenas em casos de novos repositórios
