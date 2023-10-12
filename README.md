@@ -1,5 +1,5 @@
 # Mapa guia 🗺
-Olá! Esse repositório tem o intuito de **guiar** você visitante pelos meus **outros repositórios** sem a necessidade de ficar abrindo um a um para entender do que cada um se trata.
+Olá! Esse repositório tem o intuito de **guiar** você visitante pelos meus **outros repositórios** sem a necessidade de ficar abrindo um a um para entender do que se trata.
 Esse repositório também faz parte de um treinamento e desafio de projeto proposto pela [DIO](https://web.dio.me/home)!
 
 ## 📚 Repositórios:
